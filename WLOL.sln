@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLOL", "WLOL\WLOL.csproj", "{F191F4D0-7203-4295-A91D-6BE68422EF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F191F4D0-7203-4295-A91D-6BE68422EF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F191F4D0-7203-4295-A91D-6BE68422EF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F191F4D0-7203-4295-A91D-6BE68422EF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F191F4D0-7203-4295-A91D-6BE68422EF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7019B433-B9EA-46FF-B65F-95BABCDDC476}
+	EndGlobalSection
+EndGlobal
